@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there
+
+I am **RockyBees** 🐝🐝🐝🐝🐝🐝 focusing on creating high quality ✨ _education materials_ ✨.
+
+- ✏ I’m currently working on creating the education platform [rockybees.com](https://rockybees.com).
+- 🤗 How to reach me: rockybees168@gmail.com.
+- ⚡ Fun fact: RockyBees loves `hockey`.
 
 <!--
 **rockybees/rockybees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
